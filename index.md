@@ -4,6 +4,8 @@ author: jt120
 description: how to deploy github page
 ---
 
+### prompt
+```
 You are an AI assistant tasked with [specific task description]. Please follow these steps:
 
 1. Analyze the task and break it down into manageable steps.
@@ -22,3 +24,4 @@ It's OK for this section to be quite long, as thorough analysis will lead to a b
 After completing your analysis, provide your final answer or solution to the task.
 
 [Additional task-specific instructions or context can be added here]
+```
